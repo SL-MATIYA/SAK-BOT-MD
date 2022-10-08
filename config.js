@@ -10,8 +10,8 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING DarkNero
-//┃THANKS TO Vishanga & Thinura & kumuthu
+//┃THANKS FOR CHOOSING Sak Bot MD
+//┃THANKS TO Randika & Malik
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
 const fs = require('fs')
@@ -40,7 +40,7 @@ global.alivemsg =`HI I'M  ⚜️SAK BOT MD⚜️
 
 
 
-global.alivepic = `https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg `//you logo key 
+global.alivepic = `https://telegra.ph/file/6cbf32323a0f67780ac08.jpg `//you logo key 
 
 
 global.ownername = " NIMESH " //ur owner name
@@ -48,8 +48,8 @@ global.owner = ['94786802371','']
 global.premium = ['94786802371','94786802371']
 global.botname = '⚜️SAK BOT MD⚜️'
 global.ownername = '⚜️SAK BOT MD⚜️'
-global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
+global.group1 = 'https://chat.whatsapp.com/C42iutcryMqFmGq0uUmt8e'
+global.group2 = 'https://chat.whatsapp.com/C42iutcryMqFmGq0uUmt8e'
 global.packname = '⚜️SAK BOT MD⚜️'
 global.ytchannel = 'https://www.youtube.com/channel/UCYEKB_cqPyl2yKW21nknGfw'
 global.monayawal = '100000'
