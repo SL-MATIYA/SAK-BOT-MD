@@ -31,7 +31,7 @@
 
 </div>
 
-<p align="center">By Nima Official >| © | Reserved  </br> 
+<p align="center">By Nima Official >| © | Reserved  </br>
  
  ## My Website : [Click Heare](https://www.helacloud.ga/p/sak-bot.html)
 
