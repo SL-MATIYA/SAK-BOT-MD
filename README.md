@@ -5,9 +5,9 @@
    
    
 
-## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
+## THANKS TO : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
 
-# Support Group <a href="https://chat.whatsapp.com/C42iutcryMqFmGq0uUmt8e"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+# SUPPORT GROUP <a href="https://chat.whatsapp.com/C42iutcryMqFmGq0uUmt8e"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+SAK+BOT.;CREATED+BY+NIMA+OFFICIAL;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
@@ -33,7 +33,7 @@
 
 <p align="center">By Nima Official >| © | Reserved  </br>
  
- ## My Website : [Click Heare](https://www.helacloud.ga/p/sak-bot.html)
+ ## MY WEBSITE : [Click Heare](https://www.helacloud.ga/p/sak-bot.html)
 
 1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-V2-Qr?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
@@ -46,9 +46,9 @@
 5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
 
 
-## Owner:
+## OWNER :
 * [`Nimesh`](https://github.com/nimaofficial)
 
-## Thanks To
+## THANKS TO
 * <b>Randika</b>
 * <b>Malik</b>
