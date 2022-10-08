@@ -1,14 +1,67 @@
-<h1 align="center">⚜️SAK BOT MD⚜️<br></h1>
-<p align="center">
-<img src="https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg"
+# SAK-BOT-MD
+#### TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>
+    Sak Bot MD...
 
-## My Website : [Click Heare](https://www.helacloud.ga
+    [©] New Features
 
-1. Click [SCAN](#)nd scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+     > Fix button [ original whatsapp not showd button messages]
+     > add .nopeople command.
+     > add .ehi command
+     > add .ssh command
+     > add .logo command
+     > add advanced yt down cmd. [.ytdl]
+     > and more...
+    
 
-2. Click [FORK](https://github.com/nimaofficial/SAK-BOT/fork)
+    [©] Sak Bot MD Upcoming Features[Not Relesed]
+
+     > Playstore Apk Downloder
+     > Playstore Apk searcher
+     > Auto Voice rp [On/Off]
+     > Auto msg rp [On/Off]
+     > Auto sticker rp [On/Off]
+     > Bot is not working some times fixed.
+     > and more...
+   
+   
+   
+   ```Thanks Fro using Vihanga MD```
+
+## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
+
+# Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+VIHANGA+MD+WA+BOT.;CREATED+BY+VIHANGA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+
+ </a>
+
+</p>
+
+<div align="center">
+
+  <p align="center">
+
+<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
+
+</p>
+
+  <p align="center">
+
+<a href="#"><img title="SAK BOT" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+</p>
+
+</div>
+
+<p align="center">By Nimesh>| © | Reserved  </br> 
+ 
+ ## My Website : [Click Heare](https://www.helacloud.ga/p/sak-bot.html)
+
+1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-V2-Qr?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+
+2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD-V3/fork)
 
 2. After That Upload Session.json File
 
@@ -18,8 +71,8 @@
 
 
 ## Owner:
-* [`Nimeshtps://github.com/nimaofficial)
+* [`Nimesh`](https://github.com/nimaofficial)
 
 ## Thanks To
-* [`Randika']
-* ['Malik']
+* [`Randika`]
+* [`Malik`]
