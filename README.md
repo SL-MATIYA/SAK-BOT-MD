@@ -35,7 +35,7 @@
  
  ## MY WEBSITE : [Click Heare](https://www.helacloud.ga/p/sak-bot.html)
 
-1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-V2-Qr?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@HELACLOUD/SAK-BOT-MD?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/nimaofficial/SAK-BOT/fork)
 
