@@ -1,4 +1,4 @@
-<h1 align="center">⚜️SAK BOT 𝘔𝘋 V1⚜️<br></h1>
+<h1 align="center">⚜️SAK BOT MD V1⚜️<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg"
 
