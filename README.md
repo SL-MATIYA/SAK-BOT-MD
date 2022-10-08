@@ -1,4 +1,4 @@
-# SAK-BOT-MD
+# SAK-BOT
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
@@ -27,7 +27,7 @@
    
    
    
-   ```Thanks Fro using Vihanga MD```
+   ```Thanks Fro using Sak Bot```
 
 ## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
 
@@ -55,7 +55,7 @@
 
 </div>
 
-<p align="center">By Nimesh>| © | Reserved  </br> 
+<p align="center">By Nimesh >| © | Reserved  </br> 
  
  ## My Website : [Click Heare](https://www.helacloud.ga/p/sak-bot.html)
 
