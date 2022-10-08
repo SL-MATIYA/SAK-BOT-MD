@@ -4,7 +4,6 @@
    
    
    
-   ```Thanks Fro using Sak Bot MD```
 
 ## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
 
