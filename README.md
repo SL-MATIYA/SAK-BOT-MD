@@ -1,11 +1,13 @@
-<h1 align="center">⚜️SAK BOT MD V1⚜️<br></h1>
+<h1 align="center">⚜️SAK BOT MD⚜️<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg"
   
 
-1. Click [SCAN](https://replit.com/@Kaveesha2006/DARK-BOT-QR#) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
 
-2. Click [FORK](https://github.com/Kaveeshasithum/DARK-NERO-BOT-MD-/fork)
+1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-V2-Qr?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+
+2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD-V3/fork)
 
 2. After That Upload Session.json File
 
@@ -14,12 +16,13 @@
 5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
 
 
+## Owner:
+* [`Vihanga-YT`](https://github.com/vihangayt0)
 
-
-
-
-# > THANKS FOR CHOOSING SAK BOT BOT WE APPRECIATE YOU FOR YOUR SUPPORT
- 
-# > NIMESH
-# > RANDIKA
-# > MALIK
+## Thanks To
+* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`Alien-Alfa`](https://github.com/Alien-Alfa)
+* [`DGXeon`](https://github.com/DGXeon)
+* [`AflahXrd`](https://github.com/nexusNw)
+* [`MR.Nima`](https://github.com/DarkMakerofc)
+* [`EDM-OFFICIAL`](https://github.com/edm-official)
