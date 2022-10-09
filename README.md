@@ -19,7 +19,7 @@
 
   <p align="center">
 
-<img src="https://telegra.ph/file/512045dcdc8a2336b416d.jpg" alt="GIF" width="556" height="310"/>
+<img src="https://telegra.ph/file/9b8168ce222581a566762.jpg" alt="GIF" width="1920" height="1920"/>
 
 </p>
 
